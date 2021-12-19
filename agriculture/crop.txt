@@ -5,3 +5,5 @@ cotton
 blackgram
 paddy
 maiza
+sugarcane
+banana
